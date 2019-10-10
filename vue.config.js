@@ -1,6 +1,6 @@
 module.exports = {
     devServer: {
-        port: 9090,     // 端口
+        port: 6666,     // 端口
     },
-    lintOnSave: false   // 取消 eslint 验证
+    lintOnSave: true   // 取消 eslint 验证
 };
